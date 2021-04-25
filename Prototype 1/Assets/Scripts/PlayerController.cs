@@ -4,18 +4,13 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private float speed = 30.0f;
-    private float turnSpeed = 45.0f;
+    [SerializeField] float speed = 30.0f;//使得private变量在unity中可见可编辑，但其它类无法调用
+    [SerializeField] float turnSpeed = 45.0f;
     private float horizontalInput;
     private float forwardInput;
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         horizontalInput = Input.GetAxis("Horizontal");
         forwardInput = Input.GetAxis("Vertical");

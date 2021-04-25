@@ -113,10 +113,10 @@ MonoBehaviour:
     y: 30
     width: 965
     height: 723
-  m_MinSize: {x: 713, y: 498}
-  m_MaxSize: {x: 18008, y: 14048}
+  m_MinSize: {x: 715, y: 498}
+  m_MaxSize: {x: 18010, y: 14048}
   vertical: 0
-  controlID: 24
+  controlID: 90
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 448}
   m_MaxSize: {x: 4002, y: 8048}
   vertical: 1
-  controlID: 25
+  controlID: 91
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 87
+  controlID: 68
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -290,8 +290,8 @@ MonoBehaviour:
     y: 0
     width: 281
     height: 723
-  m_MinSize: {x: 277, y: 74}
-  m_MaxSize: {x: 4002, y: 4024}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -328,9 +328,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -7.1345615, y: 0.61313546, z: 4.8352923}
+    m_Target: {x: 3.3462312, y: 5.7146897, z: 5.956419}
     speed: 2
-    m_Value: {x: -7.1345615, y: 0.61313546, z: 4.8352923}
+    m_Value: {x: 3.3462312, y: 5.7146897, z: 5.956419}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -358,9 +358,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Target: {x: 0.11727815, y: -0.35060906, z: 0.044304606, w: 0.92809284}
     speed: 2
-    m_Value: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+    m_Value: {x: 0.11727815, y: -0.35060906, z: 0.044304606, w: 0.92809284}
   m_Size:
     m_Target: 22
     speed: 2
@@ -485,9 +485,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d0090000
-      m_LastClickedID: 0
-      m_ExpandedIDs: c6fbffff
+      m_SelectedIDs: c00d0000
+      m_LastClickedID: 3520
+      m_ExpandedIDs: c6fbffff640e0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -549,19 +549,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Challenge 1/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Challenge 1/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\ASUS\Desktop\UnityWork\Prototype 1
+  m_LastProjectPath: "D:\\1.\u684C\u9762\\UnityWork\\Unity_Play\\Prototype 1"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ec0b0000
-    m_LastClickedID: 3052
+    m_SelectedIDs: 4a0a0000
+    m_LastClickedID: 2634
     m_ExpandedIDs: 00000000f2090000640b0000160c00000e0d000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
